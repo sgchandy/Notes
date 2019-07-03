@@ -30,8 +30,10 @@
 
 ### Ignore or Undo Ignore a File
 
+###### Ignore a file that has been changed
 > git update-index --assume-unchanged path_to_file
 
+###### Undo the ignore
 > git update-index --no-assume-unchanged path_to_file
 
 
