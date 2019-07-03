@@ -28,6 +28,13 @@
 ###### Remove file from stage (preserves contents)
 > git reset [file]
 
+### Ignore or Undo Ignore a File
+
+> git update-index --assume-unchanged path_to_file
+
+> git update-index --no-assume-unchanged path_to_file
+
+
 ### Committing Code
 
 ###### Committing file to the repository
