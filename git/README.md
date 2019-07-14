@@ -70,6 +70,9 @@
 ###### Show difference of a file in two branches
 > git diff branchname:file1 branchname:file2
 
+###### Show difference between two commits
+> git diff oldCommitHash newerCommitHash
+
 ###### See what has changed in a branch
 > git whatchanged
 
