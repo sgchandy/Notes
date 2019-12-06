@@ -87,9 +87,14 @@ https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/cr
 
 
 ### How to remove local untracked files from the current Git branch
+
 ######To remove directories, 
 >  git clean -f -d or git clean -fd.
+
 ######To remove ignored files, 
+
 > git clean -f -X or git clean -fX.
+
 ######To remove ignored and non-ignored files, 
+
 > git clean -f -x or git clean -fx.
