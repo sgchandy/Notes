@@ -1,0 +1,28 @@
+
+##### Install latest version of docker
+
+>  [Docker CE Installation Instructions](https://docs.docker.com/install/linux/docker-ce/centos/)
+
+
+##### Install Kubectl
+
+> [Kubectl Installation ](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-binary-using-native-package-management)
+
+> [Kubectl Autocompletion Installation ](https://kubernetes.io/docs/tasks/tools/install-kubectl/#enabling-shell-autocompletion)
+
+
+##### Install Ansible
+```bash
+> yum install ansible
+```
+
+##### Install Git
+```bash
+> yum install git
+```
+
+##### Install NSLookup
+```bash
+# yum -y install bind-utils
+```
+

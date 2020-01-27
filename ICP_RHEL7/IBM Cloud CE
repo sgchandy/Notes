@@ -1,0 +1,20 @@
+## IBM CLoud Installation on RHEL7 ##
+
+#### ICP Script Automated ####
+https://github.com/rpsene/icp-scripts
+
+#### ICP on RHEL ####
+https://github.com/ibm-cloud-architecture/refarch-privatecloud/tree/master/icp-on-rhel
+https://github.com/ibm-cloud-architecture/refarch-privatecloud/blob/master/icp-on-rhel/basic-rhel-configuration.md
+
+#### IBM® Cloud Private v3.1.0 documentation ####
+https://www.ibm.com/support/knowledgecenter/en/SSBS6K_3.1.0/kc_welcome_containers.html
+
+
+#### IBM Installing CE ####
+https://www.ibm.com/support/knowledgecenter/SSBS6K_3.1.0/installing/install_containers_CE.html#setup
+
+
+
+##### How to Stop ICP ####
+https://stackoverflow.com/questions/46712923/what-is-the-proper-way-to-shut-down-icp?rq=1
