@@ -1,5 +1,8 @@
 ### Repository
 
+###### Reset and Update Git Creds
+git config --global --unset user.password
+
 ###### Clone Repo
 > git clone url
 
