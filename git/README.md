@@ -24,6 +24,9 @@ git config --global --unset user.password
 > git branch -d [branch-name]
 
 ###### Create a branch from another
+> git checkout branch1
+> git checkout -b subbranch_of_b1 branch1
+> git push origin subbranch_of_b1 
 
 https://stackoverflow.com/questions/4470523/create-a-branch-in-git-from-another-branch
 
