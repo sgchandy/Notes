@@ -80,3 +80,9 @@ Difference in yaml (Deployment vs ReplicaSet)
   
 ![image](https://user-images.githubusercontent.com/45700418/131229533-0b2777c7-d942-4907-834d-7e7d80bafc04.png)
   
+
+  
+  
+  ![image](https://user-images.githubusercontent.com/45700418/131229645-3e835ef7-2088-4850-aca1-421b50be7c20.png)
+
+  
