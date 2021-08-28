@@ -1,0 +1,9 @@
+Install Minikube on VM
+
+### Enable VTX-AMD in VM
+https://stackoverflow.com/questions/54251855/virtualbox-enable-nested-vtx-amd-v-greyed-out
+
+
+
+minikube start
+
