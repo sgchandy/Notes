@@ -76,4 +76,7 @@ Difference in yaml (Deployment vs ReplicaSet)
 
   
   
+![image](https://user-images.githubusercontent.com/45700418/131229525-59768bcc-c678-44c1-9011-efddc717c1eb.png)
+  
+![image](https://user-images.githubusercontent.com/45700418/131229533-0b2777c7-d942-4907-834d-7e7d80bafc04.png)
   
